@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey! I'm Andrew Zex!
+## There's My Personal Information:
+- Name: Vyacheslav(for friends Slava)
+- Last Name: Surskih
+- Nickname: Andrew Zex(or Hamster)
+- Age: 16 years
+- Date of birth: 30 December 2005
+- Country: Russia
+- Known Langs: Russian, Engish(US, UK), Spanish(not much), Ukrainian(not much)
+- City: Chelyabinsk
+- Favorite Programming Language: JavaScript(favorite module Discord.JS), C#(Knoes not much, learining)
 
-<!--
-**Andrew-Zex/Andrew-Zex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My GitHub's stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Zex&theme=tokyonight&show_icons=true)  
 
-Here are some ideas to get you started:
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Zex&theme=tokyonight&show_icons=true)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My language stats:
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andrew-Zex&theme=tokyonight&show_icons=true&layout=compact)
