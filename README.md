@@ -18,3 +18,11 @@
 ## My language stats:
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andrew-Zex&theme=tokyonight&show_icons=true&layout=compact)
+
+## Socials:
+- VK: https://vk.com/ssurskih
+- Discord: **Hamster#4118**
+- YouTube: https://www.youtube.com/channel/UC90ye06qLj6xt-BOxDzBGVg
+- Steam: https://steamcommunity.com/id/aztcreator/
+- Facebook: https://www.facebook.com/andrewzexoff/
+- Twitch: https://www.twitch.tv/andrewzex
