@@ -17,7 +17,7 @@
 
 ## My language stats:
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andrew-Zex&theme=tokyonight&show_icons=true&layout=compact)
+![Andrew Zex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andrew-Zex&theme=tokyonight&show_icons=true&layout=compact)
 
 ## Socials:
 - VK: https://vk.com/ssurskih
