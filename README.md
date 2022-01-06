@@ -11,13 +11,16 @@
 - Favorite Programming Language: JavaScript(favorite module Discord.JS), C#(Knoes not much, learining)
 
 ## My GitHub's stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Zex&theme=tokyonight&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Zex&theme=radical&show_icons=true&title_color=00FF00)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Zex&theme=tokyonight&show_icons=true)  
 
 ## My language stats:
-
+### By Waka Time
 ![Andrew Zex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andrew-Zex&theme=tokyonight&show_icons=true&layout=compact)
+
+### By Github
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Zex&layout=compact)
 
 ## Socials:
 - VK: https://vk.com/ssurskih
