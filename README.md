@@ -17,7 +17,7 @@
 
 ## My language stats:
 ### By Waka Time
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Zex)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Zex)
 
 ### By Github
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Zex&layout=compact)
