@@ -17,7 +17,7 @@
 
 ## My language stats:
 ### By Waka Time
-![Andrew Zex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andrew-Zex&theme=tokyonight&show_icons=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Zex)]
 
 ### By Github
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Zex&layout=compact)
