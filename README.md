@@ -5,7 +5,7 @@
 * BIO: Im Very Private And Suspicious User!
 * Country: Uknown
 * City: Unknown
-* Girlfriend: Haven't
+* Girlfriend: Nonamed!
 * Favorite Programming Language: JavaScript(favorite module Discord.JS), C#(Knoes not much, learining)
 
 ## My GitHub's stats:
