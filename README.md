@@ -5,8 +5,8 @@
 * BIO: Im Very Private And Suspicious User!
 * Country: Uknown
 * City: Unknown
-* Girlfriend: Nonamed!
-* Favorite Programming Language: JavaScript(favorite module Discord.JS), C#(Knoes not much, learining)
+* Girlfriend: Havent!
+* Favorite Programming Language: JavaScript/TypeScript(favorite module Discord.JS), Java/KT
 
 ## My GitHub's stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Zex&theme=radical&show_icons=true&title_color=00FF00)  
