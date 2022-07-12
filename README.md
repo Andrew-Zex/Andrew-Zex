@@ -6,7 +6,7 @@
 * Country: Uknown
 * City: Unknown
 * Girlfriend: Havent!
-* Favorite Programming Language: JavaScript/TypeScript(favorite module Discord.JS), Java/KT
+* Favorite Programming Language: JavaScript(favorite module Discord.JS), Java
 
 ## My GitHub's stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Zex&theme=radical&show_icons=true&title_color=00FF00)  
