@@ -16,3 +16,8 @@
 
 ## My Github Activity: 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Andrew-Zex)  
+
+
+
+# You Are Visitor Number:
+![THDev](https://count.getloli.com/get/@THDev?theme=gelbooru)
