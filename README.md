@@ -1,15 +1,33 @@
-
-<h1 align="center">Hi there, I'm <a href="https://andrewzex.ru" target="_blank">TheHamsterDev</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm Simple Hamster, who's learning JS, Java and C++</h3><br>
+# Hi there, I'm [TheHamsterDev](https://andrewzex.ru)
+## I'm Simple Hamster, who's learning JS, Java and C#
 
 ![Profile views](https://gpvc.arturio.dev/Andrew-Zex)  
 
-<h2 align="center">Some info about me</h2>
+## Some info about me
+### Main info
+- Name: Andrew Zex
+- Age: 16 years
+- Birthday: 30th December
+- Country: Russia
+- Languages: Russian, English and some Ukranian
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Andrew)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=And+surname+Zex)](https://git.io/typing-svg)
+### Skills
+Programming languages:
+- ![javascript](https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=JavaScript)
+- ![csharp](https://img.shields.io/static/v1?label=&message=C%23&color=191919&style=for-the-badge&logo=C%20Sharp&logoColor=239120)
+- ![java](https://img.shields.io/static/v1?label=&message=Java&color=191919&style=for-the-badge&logo=Oracle&logoColor=FF6600)
 
+Programs:
+- ![Intellij Idea](https://img.shields.io/static/v1?label=&message=IntelliJ+IDEA&color=191919&style=for-the-badge&logo=Intellij%20Idea&logoColor=ffffff)
+- ![Visual Studio Code](https://img.shields.io/static/v1?label=&message=VSCode&color=191919&style=for-the-badge&logo=Visual+Studio+Code&logoColor=007ACC)
+
+Operating Systems
+- ![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=191919&style=for-the-badge&logo=Windows&logoColor=007ACC)
+- Linux:
+- - ![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=191919&style=for-the-badge&logo=Ubuntu&logoColor=FF6600)
+- - ![Kubuntu](https://img.shields.io/static/v1?label=&message=Kubuntu&color=191919&style=for-the-badge&logo=Kubuntu&logoColor=0079C1)
+- - ![Mint](https://img.shields.io/static/v1?label=&message=Linux+Mint&color=191919&style=for-the-badge&logo=Linux+Mint&logoColor=87CF3E)
+- - ![Manjaro](https://img.shields.io/static/v1?label=&message=Manjaro&color=191919&style=for-the-badge&logo=Manjaro&logoColor=35BF5C)
 ## My GitHub's stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Zex&theme=radical&show_icons=true&title_color=00FF00)  
 
