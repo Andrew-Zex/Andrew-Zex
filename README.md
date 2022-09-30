@@ -26,7 +26,6 @@ Operating Systems
 - Linux:
 - - ![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=191919&style=for-the-badge&logo=Ubuntu&logoColor=FF6600)
 - - ![Kubuntu](https://img.shields.io/static/v1?label=&message=Kubuntu&color=191919&style=for-the-badge&logo=Kubuntu&logoColor=0079C1)
-- - ![Mint](https://img.shields.io/static/v1?label=&message=Linux+Mint&color=191919&style=for-the-badge&logo=Linux+Mint&logoColor=87CF3E)
 - - ![Manjaro](https://img.shields.io/static/v1?label=&message=Manjaro&color=191919&style=for-the-badge&logo=Manjaro&logoColor=35BF5C)
 ## My GitHub's stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Zex&theme=radical&show_icons=true&title_color=00FF00)  
