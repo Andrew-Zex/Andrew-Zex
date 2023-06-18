@@ -1,8 +1,6 @@
 # Hi there, I'm [TheHamsterDev](https://andrewzex.ru)
 ## I'm Simple Hamster, who's learning JS, Java and C#
 
-![Profile views](https://gpvc.arturio.dev/Andrew-Zex)  
-
 ## Some info about me
 ### Main info
 - Name: Andrew Zex
