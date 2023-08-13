@@ -4,7 +4,7 @@
 ## Some info about me
 ### Main info
 - Name: Andrew Zex
-- Age: 16 years
+- Age: 17 years
 - Birthday: 30th December
 - Country: Russia
 - Languages: Russian, English and some Ukranian
