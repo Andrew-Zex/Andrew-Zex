@@ -31,7 +31,7 @@ Operating Systems
 
 
 ## My Github Activity: 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Andrew-Zex)  
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Zex&theme=react-dark)
 
 
 
