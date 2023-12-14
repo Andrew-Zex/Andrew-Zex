@@ -11,9 +11,9 @@
 
 ### Skills
 Programming languages:
-- ![javascript](https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=JavaScript)
-- ![csharp](https://img.shields.io/static/v1?label=&message=C%23&color=191919&style=for-the-badge&logo=C%20Sharp&logoColor=239120)
-- ![java](https://img.shields.io/static/v1?label=&message=Java&color=191919&style=for-the-badge&logo=Oracle&logoColor=FF6600)
+- ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=JavaScript)
+- ![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=191919&style=for-the-badge&logo=Rust&logoColor=B7410E)
+- ![Java](https://img.shields.io/static/v1?label=&message=Java&color=191919&style=for-the-badge&logo=Oracle&logoColor=FF6600)
 - ![Python](https://img.shields.io/badge/python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Programs:
