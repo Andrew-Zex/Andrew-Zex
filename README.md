@@ -1,5 +1,5 @@
 # Hi there, I'm [TheHamsterDev](https://andrewzex.ru)
-## I'm Simple Hamster, who's learning JS, Java and C#
+## I'm Simple Hamster, who's learning JS, Java, Python and Rust
 
 ## Some info about me
 ### Main info
