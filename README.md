@@ -31,6 +31,7 @@ Operating Systems
 
 
 ## My Github Activity: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagai35&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Zex&theme=react-dark)
 
 
