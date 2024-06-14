@@ -32,8 +32,3 @@ Operating Systems
 
 ## My Github Activity: 
 ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Zex&theme=react-dark)
-
-
-
-# You Are Visitor Number:
-![THDev](https://count.getloli.com/get/@THDev?theme=gelbooru)
