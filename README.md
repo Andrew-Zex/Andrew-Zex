@@ -32,3 +32,6 @@ Operating Systems
 
 ## My Github Activity: 
 ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Zex&theme=react-dark)
+
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
