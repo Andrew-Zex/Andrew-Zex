@@ -12,7 +12,7 @@
 ### Skills
 Programming languages:
 - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=JavaScript)
-- ![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=191919&style=for-the-badge&logo=Rust&logoColor=B7410E)
+- ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=TypeScript&logoColor=191919)
 - ![Java](https://img.shields.io/static/v1?label=&message=Java&color=191919&style=for-the-badge&logo=Oracle&logoColor=FF6600)
 - ![Python](https://img.shields.io/badge/python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)
 
